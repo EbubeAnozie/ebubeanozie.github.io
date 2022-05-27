@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: smooth;
+    background-color: honeydew;
+    font-size: 15px;
+    font-family: "PT Mono", monospace;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+
+p {
+    width: 500px;
+    line-height: 1;
+    letter-spacing:0cm;
+}
+
+h1 {
+    text-align: center;
+    text-justify: auto;
+    line-height: 0%;
+}
+
+.subheading {
+        text-align: center;
+        text-justify: auto;
+        line-height: 0%;
+        text-shadow: 3.0px 3.0px 3.0px 0 0 black;
+        font-size: small;
+    }
+
+body{
+    padding: 0 10px 20px 10px;
+    margin: 0 auto;
+}
+
+ul {
+    width: 500px
+}
