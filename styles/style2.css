@@ -8,7 +8,7 @@
 html {
     font-size: 16px;
     scroll-behavior: smooth;
-    background: url('images/image5.jpg') no-repeat center center fixed; /* Add the background image */
+    background: url('../images/image5.jpg') no-repeat center center fixed; /* Add the background image */
     background-size: cover; /* Make sure the image covers the whole background */
     color: white;
 }
@@ -22,7 +22,7 @@ body {
 
 /* Header Section */
 header {
-    background: rgba(37, 117, 252, 0.8); /* Transparent blue background for header */
+    /*background: rgba(37, 117, 252, 0.8); /* Transparent blue background for header */
     color: white;
     text-align: center;
     padding: 40px 0;
